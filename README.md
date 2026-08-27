@@ -1,6 +1,6 @@
 ### 👋 This is Muhammad Asad Ali.
 
-- 🔭 Machine Learning Engineer.
+- 🔭 Computer Vision Researcher.
 - 🌐 www.pyxploiter.com
 - 📫 Reach me at: mrasadaly@gmail.com
 
